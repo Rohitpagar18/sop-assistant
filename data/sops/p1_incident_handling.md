@@ -12,7 +12,7 @@ When a core system (e.g., DemoPortal, database) is entirely down, or a major fea
 6. Mitigate the issue (e.g., rollback recent deployment, restart server, failover to backup).
 7. Once resolved, provide a final status update and schedule a post-mortem.
 ## Escalation
-If the root cause cannot be found within 15 minutes, call the on-call lead at ext. 5678 (fake).
+If the root cause cannot be found within 15 minutes, call the on-call lead at ext. 56789 (fake).
 ## Notes
 - Communication is more important than immediate root cause analysis. Keep users informed.
 - Do not make code changes during a P1 unless it is to roll back a recent breaking change.
